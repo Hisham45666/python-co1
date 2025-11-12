@@ -1,0 +1,5 @@
+##sum of list items
+
+numbers = [10, 20, 30, 40, 50]
+total = sum(numbers)
+print("Sum of all items in the list:", total)
